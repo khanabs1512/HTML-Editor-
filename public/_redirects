@@ -1,0 +1,3 @@
+# Cloudflare Pages SPA rewrite rule
+# Existing static files (HTML, JS, CSS, images, service workers) are automatically served first.
+/* /index.html 200

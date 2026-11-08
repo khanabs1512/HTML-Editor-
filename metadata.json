@@ -1,0 +1,6 @@
+{
+  "name": "CodeStudio",
+  "description": "Professional mobile-first HTML, CSS & JavaScript code editor, live runner, and offline-first PWA studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production & Build outputs
+dist/
+build/
+dev-dist/
+
+# Cloudflare & Testing artifacts
+.wrangler/
+coverage/
+.playwright/
+test-results/
+playwright-report/
+
+# OS & Environment
+.DS_Store
+*.log
+.env*
+!.env.example
+*.local
